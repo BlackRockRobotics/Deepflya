@@ -1,0 +1,4 @@
+﻿"Diameter"= 15000'Diameter of the dome
+"ShellTh"= 100'Shell thickness
+"LathTh"= 25'Lath thickness
+
